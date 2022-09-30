@@ -1,1 +1,12 @@
 .venv/
+_pycache_/
+BankAccountClass.py/
+BankAccountProgram.py/
+Cellphone_test.py/
+cellphone.py/
+Coin_Toss.py/
+CoinClass.py/
+insectclass.py/
+insectprogram.py/
+passObj.py/
+Wings_Legs.py/
